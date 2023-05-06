@@ -6,7 +6,3 @@
 
 * [📜 Why you shouldn't use "touch" to create empty files in Linux](linux/why-you-shouldnt-use-touch-to-create-empty-files-in-linux.md)
 * [📜 Fish: A modern and powerful alternative to Bash and Zsh](linux/fish-a-modern-and-powerful-alternative-to-bash-and-zsh.md)
-
-## 👾 HACKTHEBOX
-
-* [🖥 Socket (Medium) | Writeup](hackthebox/socket-medium-or-writeup.md)
